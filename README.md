@@ -1,6 +1,6 @@
 # 🚲 Cyclistic Bike-Share Analysis
 
-## Project Objective
+## 🎯 Project Objective
 
 Analyze historical bike trip data to understand how annual members and casual riders use Cyclistic bikes differently.
 
