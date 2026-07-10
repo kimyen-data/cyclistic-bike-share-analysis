@@ -1,18 +1,25 @@
 # 🚲 Cyclistic Bike-Share Analysis
 
+## Project Objective
+
+Analyze historical bike trip data to understand how annual members and casual riders use Cyclistic bikes differently.
+
+The findings will support marketing strategies aimed at converting casual riders into annual members.
+
 ## 📌 Project Overview
 
-Cyclistic is a bike-sharing company operating in Chicago. The company aims to increase the number of annual memberships because annual members generate significantly higher profits than casual riders.
+Cyclistic is a bike-sharing company based in Chicago.
 
-This project analyzes Cyclistic's historical bike trip data to identify behavioral differences between annual members and casual riders. The insights will support data-driven marketing strategies to encourage casual riders to purchase annual memberships.
+Annual members generate significantly higher profits than casual riders. Therefore, the marketing department aims to understand behavioral differences between these two customer groups and develop strategies to increase annual memberships.
+
+This project follows the six phases of the Google Data Analytics process:
+Ask → Prepare → Process → Analyze → Share → Act.
 
 ---
 
 ## 🎯 Business Task
 
-Analyze Cyclistic's historical trip data to understand how annual members and casual riders use bikes differently.
-
-The findings will support the marketing team in developing marketing campaigns that convert casual riders into annual members.
+Identify the differences in riding behavior between annual members and casual riders using historical trip data.
 
 ---
 
