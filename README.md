@@ -1,40 +1,40 @@
-# Cyclistic Bike Share Analysis
+# 🚲 Cyclistic Bike-Share Analysis
 
-## Project Overview
+## 📌 Project Overview
 
-This project is part of the Google Data Analytics Professional Certificate Capstone.
+Cyclistic is a bike-sharing company operating in Chicago. The company aims to increase the number of annual memberships because annual members generate significantly higher profits than casual riders.
 
-This project analyzes historical bike-sharing data to understand the differences between annual members and casual riders.
-
----
-
-## Business Task
-
-Identify behavioral differences between members and casual riders.
+This project analyzes Cyclistic's historical bike trip data to identify behavioral differences between annual members and casual riders. The insights will support data-driven marketing strategies to encourage casual riders to purchase annual memberships.
 
 ---
 
-## Dataset
+## 🎯 Business Task
 
-Cyclistic Historical Trip Data
+Analyze Cyclistic's historical trip data to understand how annual members and casual riders use bikes differently.
 
----
-
-## Tools
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Tableau
+The findings will support the marketing team in developing marketing campaigns that convert casual riders into annual members.
 
 ---
 
-## Project Workflow
+## 👥 Stakeholders
 
-- Ask
-- Prepare
-- Process
-- Analyze
-- Share
-- Act
+| Stakeholder | Role |
+|-------------|------|
+| Lily Moreno | Director of Marketing |
+| Cyclistic Marketing Analytics Team | Analyze customer behavior and provide business insights |
+| Cyclistic Executive Team | Review findings and approve marketing recommendations |
+
+---
+
+## 🚧 Project Status
+
+🔄 In Progress
+
+This repository will be updated throughout the six phases of the Google Data Analytics process:
+
+- [x] Ask
+- [ ] Prepare
+- [ ] Process
+- [ ] Analyze
+- [ ] Share
+- [ ] Act
